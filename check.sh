@@ -1,3 +1,4 @@
+#original script by: https://gist.github.com/cgmartin
 #!/bin/bash
 TARGET="mysite.example.net"; 
 RECIPIENT="hostmaster@mysite.example.net";
